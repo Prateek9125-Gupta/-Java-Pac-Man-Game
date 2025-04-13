@@ -88,5 +88,6 @@ O = Skip tile (empty area)
 
 📸 Video
 
-https://github.com/user-attachments/assets/f5847aa6-02c1-41f8-a5c2-b5a459b7bbb0
+https://github.com/user-attachments/assets/ae3f5980-5c08-456a-9797-62fbffd1214c
+
 
